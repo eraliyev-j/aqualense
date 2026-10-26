@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>sample_water_quality.csv</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="chevron_down.png">icons/chevron_down.png</file>
+        <file alias="chevron_up.png">icons/chevron_up.png</file>
+    </qresource>
+</RCC>
