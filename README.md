@@ -1,4 +1,4 @@
-# AquaLens — Water Quality Data Analyzer
+# AquaLens - Water Quality Data Analyzer
 
 A desktop application in **C++17 / Qt 6** for analyzing water quality CSV datasets.
 Upload a file, get descriptive statistics, interactive time-series charts and automatic
